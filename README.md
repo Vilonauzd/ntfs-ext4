@@ -38,7 +38,7 @@ A forensic-grade GUI tool for safely copying data from NTFS filesystems (via `nt
 
 ---
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 ### System Requirements
 
