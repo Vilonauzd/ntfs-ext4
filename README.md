@@ -1,7 +1,7 @@
 # NTFS → EXT4 Forensic Copy Tool
 
 **Author:** jm@qvert.net  
-**Version:** 1.0.0  
+**Version:** 2.0.0  
 **License:** MIT  
 
 A forensic-grade GUI tool for safely copying data from NTFS filesystems (via `ntfs-3g`) to native Linux EXT4 filesystems with full audit logging, hidden file preservation, and post-copy verification.
