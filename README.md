@@ -9,7 +9,7 @@ A forensic-grade GUI tool for safely copying data from NTFS filesystems (via `nt
 ---
 <img width="2006" height="1265" alt="image" src="https://github.com/user-attachments/assets/c4587b89-67ac-43e8-aebe-3653953a7462" />
 <p align="center">
-  <a href="./assets/example run.webm">
+  <a href="./assets/examplerun.webm">
     <img src="./assets/thumb.png" 
          alt="Click to play demo" 
          style="border: 2px solid #0366d6; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); max-width: 800px; width: 100%;">
