@@ -7,7 +7,8 @@
 A forensic-grade GUI tool for safely copying data from NTFS filesystems (via `ntfs-3g`) to native Linux EXT4 filesystems with full audit logging, hidden file preservation, and post-copy verification.
 
 ---
-<img width="1625" height="1307" alt="image" src="https://github.com/user-attachments/assets/67d9400b-da29-4468-a04a-2ca25379183a" />
+<img width="2006" height="1265" alt="image" src="https://github.com/user-attachments/assets/c4587b89-67ac-43e8-aebe-3653953a7462" />
+
 
 
 ##  Table of Contents
